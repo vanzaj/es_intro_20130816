@@ -1,0 +1,1 @@
+curl "https://api.pinboard.in/v1/posts/recent?auth_token=$PB_AUTH&format=json&tag=python" | python -mjson.tool > data_pinbrd.json

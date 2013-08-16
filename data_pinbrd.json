@@ -1,0 +1,171 @@
+{
+    "date": "2013-06-11T16:11:25Z",
+    "posts": [
+        {
+            "description": "Lab of Genomics, Evolution, and Development @ Michigan State",
+            "extended": "",
+            "hash": "4f8049c9fc1b6b017a8e26af37bbb42c",
+            "href": "http://ged.msu.edu/",
+            "meta": "ae38b2d70b23879acd584731f275ca68",
+            "shared": "yes",
+            "tags": "ppl blog openscience python",
+            "time": "2013-06-11T16:11:25Z",
+            "toread": "no"
+        },
+        {
+            "description": "Good to Great Python reads \u2014 jesse noller",
+            "extended": "",
+            "hash": "c06567569fb4f854bfdca421f0d81f4e",
+            "href": "http://jessenoller.com/good-to-great-python-reads/",
+            "meta": "afec67c0242d73ae8aed7edaed73d3cb",
+            "shared": "yes",
+            "tags": "python programming blog ppl",
+            "time": "2013-05-15T06:46:12Z",
+            "toread": "no"
+        },
+        {
+            "description": "Pen and Pants | Don't Leave Home Without Them",
+            "extended": "",
+            "hash": "ff609d665f5ef3bf443f64de08b8c52f",
+            "href": "http://penandpants.com/",
+            "meta": "fe506675c3d85026d7c50513c674c435",
+            "shared": "yes",
+            "tags": "blog python science teaching",
+            "time": "2013-05-06T09:48:28Z",
+            "toread": "no"
+        },
+        {
+            "description": "A Practical Intro to Data Science | Zipfian Academy",
+            "extended": "",
+            "hash": "50c4a999ee172e3a22f084bc515a4586",
+            "href": "http://blog.zipfianacademy.com/post/46864003608/a-practical-intro-to-data-science",
+            "meta": "cc8ee7ef5ed1cb81224b5004c32fb757",
+            "shared": "yes",
+            "tags": "python learning stats datamining",
+            "time": "2013-04-16T14:11:41Z",
+            "toread": "no"
+        },
+        {
+            "description": "Pythonic Perambulations",
+            "extended": "",
+            "hash": "20ce9115044b1e6010e473f803640d15",
+            "href": "http://jakevdp.github.com/",
+            "meta": "23e5e5dfae366097c89f53e59507413c",
+            "shared": "yes",
+            "tags": "blog ppl python",
+            "time": "2013-04-01T05:16:31Z",
+            "toread": "no"
+        },
+        {
+            "description": "ROSALIND",
+            "extended": "\"Project Euler\" for BioInfo",
+            "hash": "2c9717e82eeae28c8de7822999895218",
+            "href": "http://rosalind.info/",
+            "meta": "8714eaad35bce4eb7d1f0cb8434f8c59",
+            "shared": "yes",
+            "tags": "teaching biology python",
+            "time": "2013-03-31T08:15:15Z",
+            "toread": "no"
+        },
+        {
+            "description": "Alex Gaudio - Blog",
+            "extended": "",
+            "hash": "20c101adf5c761bff33d030a315316c5",
+            "href": "http://www.alexgaudio.com/blog/",
+            "meta": "bd8987701c16a0e4de4aecc8f0665d4f",
+            "shared": "yes",
+            "tags": "blog ppl python numpy",
+            "time": "2013-03-26T16:50:56Z",
+            "toread": "no"
+        },
+        {
+            "description": "Deploying an ad-hoc IPython cluster on Joyent in 20 minutes for 15 cents - another techie\u2019s log",
+            "extended": "",
+            "hash": "94ec00637006c13bf74a4d7ad3fb6074",
+            "href": "http://atl.me/2013/joyent-ipython-cluster",
+            "meta": "ef28df62dbf2b26ddaf5d84004dba86a",
+            "shared": "yes",
+            "tags": "python cloud hpc",
+            "time": "2013-03-10T09:48:50Z",
+            "toread": "no"
+        },
+        {
+            "description": "Welcome to Problem Solving with Algorithms and Data Structures \u2014 Problem Solving with Algorithms and Data Structures",
+            "extended": "",
+            "hash": "26d5c43fb2cde8cd5227910541d28212",
+            "href": "http://interactivepython.org/courselib/static/pythonds/index.html",
+            "meta": "c18d35c8bfc8ede5aae886743dde8559",
+            "shared": "yes",
+            "tags": "programming python book free",
+            "time": "2013-03-01T14:08:24Z",
+            "toread": "no"
+        },
+        {
+            "description": "Complete Single Server Django Stack Tutorial | Apreche.net",
+            "extended": "",
+            "hash": "4b6393e04765a95a9b22982a8f7dc53c",
+            "href": "http://www.apreche.net/complete-single-server-django-stack-tutorial/",
+            "meta": "a2d54976e81e72877f9638da76a7c268",
+            "shared": "yes",
+            "tags": "python django tutorial ubuntu",
+            "time": "2013-01-21T07:12:14Z",
+            "toread": "no"
+        },
+        {
+            "description": "Welcome to simpleai\u2019s documentation! \u2014 simpleai 0.5 documentation",
+            "extended": "",
+            "hash": "a83927ee59e25caae24db98f4eb77801",
+            "href": "http://simpleai.readthedocs.org/en/latest/",
+            "meta": "61843901f76f13f2213d9f5f0e01073a",
+            "shared": "yes",
+            "tags": "ai python",
+            "time": "2013-01-15T03:51:18Z",
+            "toread": "no"
+        },
+        {
+            "description": "sampledoc tutorial \u2014 sampledoc 1.0 documentation",
+            "extended": "",
+            "hash": "61f1bffc87d50537e295b3b9e46f21e9",
+            "href": "http://matplotlib.org/sampledoc/",
+            "meta": "9a342dba653c8648a89999542c2884e8",
+            "shared": "yes",
+            "tags": "python numpy",
+            "time": "2013-01-14T15:22:42Z",
+            "toread": "no"
+        },
+        {
+            "description": "beets: the music geek\u2019s media organizer",
+            "extended": "",
+            "hash": "73557483e36726f63855d6c9c0da6bd4",
+            "href": "http://beets.radbox.org/",
+            "meta": "2aea5bbf5b1646084fa1721b330e0622",
+            "shared": "yes",
+            "tags": "python music",
+            "time": "2012-12-30T06:42:10Z",
+            "toread": "no"
+        },
+        {
+            "description": "Hi There! / Tomer Filiba",
+            "extended": "",
+            "hash": "8d136394e5462ac94734103a805449f4",
+            "href": "http://tomerfiliba.com/",
+            "meta": "48b5aae421fe5f6561ec4648a66618a8",
+            "shared": "yes",
+            "tags": "blog ppl programming python",
+            "time": "2012-10-08T08:47:59Z",
+            "toread": "no"
+        },
+        {
+            "description": "Philip Guo - programmer, researcher, amateur writer",
+            "extended": "",
+            "hash": "be58279bb201a5babde9199c3a494b6a",
+            "href": "http://www.pgbovine.net/",
+            "meta": "3828f6095975abe706ad45f11decd953",
+            "shared": "yes",
+            "tags": "programming python blog ppl",
+            "time": "2012-10-03T14:13:59Z",
+            "toread": "no"
+        }
+    ],
+    "user": "vanzaj"
+}
