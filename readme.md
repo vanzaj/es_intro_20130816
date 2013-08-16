@@ -33,26 +33,23 @@ Download
 [Sense](https://chrome.google.com/webstore/detail/sense/doinijnbnggojdlcjifpdckfokbbfpbo?hl=en)
  extension
 
-::
+Queries via parameters:
 
      /pin/bm/_search?q=science
      /pin/_search?q=tags:*science
      /pin/_search?q=tags:*science&size=2
 
-::
+Load more data (into another index):
 
      ./load_gists.py
 
-::
+Note the end-point:
 
      /_search?q=description:python || desc:python
-     curl 'http://localhost:9200/pin/_search?q=tags:python%20AND%20blog'
 
 
 Access with Python
 ==================
-
-::
 
      python es_req.py    # using requests
      python es_pyes.py   # using pyelasticsearch
@@ -113,7 +110,7 @@ Facets:
 Other stuff
 ===========
 
-::
+    curl 'http://localhost:9200/pin/_search?q=tags:python%20AND%20blog'
 
     curl 'localhost:9200/_analyze?analyzer=standard&pretty' -d 'hello world'
     curl 'localhost:9200/_analyze?analyzer=whitespace&pretty' -d 'hello world'
