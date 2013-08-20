@@ -12,9 +12,9 @@ def es(ep, pars=None, data=None, host=host, method='get'):
     if method == 'head':
         r = r.head(url)
     elif method == 'post':
-        r = req.post(url, params=pars, data=pars)
+        r = req.post(url, params=pars, data=data)
     elif method == 'put':
-        r = req.put(url, params=pars, data=pars)
+        r = req.put(url, params=pars, data=data)
     elif method == 'delete':
         r = req.delete(url)
     else:
